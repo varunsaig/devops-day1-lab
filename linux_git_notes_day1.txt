@@ -1,0 +1,22 @@
+🧠 Linux + Git Notes - Day 1
+
+Top 10 Linux Commands:
+1. pwd – Shows current directory
+2. ls -l – List files with permissions
+3. mkdir – Create folder
+4. cd – Move between folders
+5. touch – Create files
+6. echo – Write to file
+7. cat – Read file content
+8. cp – Copy file
+9. rm – Delete file
+10. chmod +x – Give execute permission
+
+Top 3 Git Commands:
+1. git init – Start tracking folder
+2. git commit – Save snapshot
+3. git push – Upload to GitHub
+
+Q: Why do DevOps engineers use Git?
+A: To track code changes, collaborate with teams, and integrate with automation tools like Jenkins.
+
